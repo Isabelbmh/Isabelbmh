@@ -18,6 +18,7 @@ No he tenido oportunidad de incursionar en la programación y ahora es el moment
 - C++
 - Markdown
 - Canva 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Freeman&size=22&duration=1&pause=1000&color=FF359C&random=false&width=435&lines=Soft)](https://git.io/typing-svg)
 - Responsabilidad, 
 - Asertividad, 
